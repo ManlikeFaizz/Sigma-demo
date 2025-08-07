@@ -1,2 +1,8 @@
 # Sigma-demo
-This is a demo file
+This is a demo for Git &amp; Github class.
+
+# Teacher
+Shradha Khapra
+
+# Student
+Sigma student
